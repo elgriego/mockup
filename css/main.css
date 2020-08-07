@@ -105,6 +105,34 @@
 	height: 103px;
 }
 
+.twitter-logo-img {
+	width: 74px;
+}
+
+.btn-more-tweets {
+	width: 194px;
+	height: 58px;
+	border: solid 1px #cdcdcd;
+  	background-image: linear-gradient(to top, #efefef, #ffffff);
+}
+
+.twitter-text {
+	margin: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
