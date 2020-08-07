@@ -59,11 +59,41 @@
 	padding-top: 10px;
 }
 
+.line-style {
+	margin: 20px 140px 20px 140px;
+	height: 1px;
+	background-image: radial-gradient(grey, white);
+}
 
+.card-title {
+	font-size: 26px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.15;
+	letter-spacing: -1.3px;
+	text-align: left;
+	color: #666666;
+}
 
+.card-text {
+	font-size: 12px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.75;
+	letter-spacing: normal;
+	text-align: left;
+	color: #9a9a9a;
+}
 
+.btn-read-more {
+	border-radius: 20px;
+	border: solid 1px #cdcdcd;
+  	background-image: linear-gradient(to top, #efefef, #ffffff);
+  	padding: 10px 20px;
 
-
+}
 
 
 
